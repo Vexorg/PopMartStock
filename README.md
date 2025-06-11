@@ -4,7 +4,7 @@ Ever felt like playing "Where's Waldo?" but with adorable Labubu boxes? Well, th
 
 ## What's This All About?
 
-Pop Now Navigator is your trusty sidekick for finding available boxes and keeping track of which Labubu boxes you've already checked. Think of it as your digital notebook, but way cooler! This tool is invaluable during a fresh restock drop, allowing you to quickly navigate among the hundreds of new box sets and grab one before it sells out!
+Pop Now Navigator is your trusty sidekick for finding available boxes and keeping track of which Labubu boxes you've already checked. Think of it as your digital notebook, but way cooler! This tool is invaluable during a fresh restock drop, allowing you to quickly navigate among the hundreds of new box sets and grab it before it sells out!
 
 ## Features
 
@@ -18,7 +18,7 @@ Pop Now Navigator is your trusty sidekick for finding available boxes and keepin
   - 🟢 Available boxes with their quantity
 
 ### 🎲 Random Jump
-- Feeling lucky? Hit the dice button to randomly jumps 1-30 boxes ahead
+- Feeling lucky? Hit the dice button to randomly jumps 1-40 boxes ahead
 - Perfect for when you can't decide where to look next
 
 ### 🎁 Next Restock Tracker
@@ -35,7 +35,7 @@ Pop Now Navigator is your trusty sidekick for finding available boxes and keepin
 5. The extension remembers everything for your next visit
 
 
-## Restock Info:**  
+## Restock Info
 Pop Now restocks for Macaron and HAS typically begin daily at 5:30pm PST, with 2–4 batches released every 10 minutes. BIE restocks are less frequent, usually occurring on Wednesdays and/or Thursdays between 5:30pm and 6:30pm PST.
 
 Best advice is to switch to the grid that contains the box set that will restock next (using the restock button to jump to) and randomly pick one one of those red cells from the navigation tool randomly.  A restock range is usually 100-200 box sets, so pick something within that range, and refresh the page a few times starting at 5:29pm PST and hope you picked a bot set that you're able to add to cart fast enough.
