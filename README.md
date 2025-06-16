@@ -52,4 +52,4 @@ This is just a helper tool for navigating boxes more efficiency and remembering 
 - 🔄 The extension automatically updates as you browse
 - 🎁 Use the restock button to quickly jump to the most important boxes to scan during a restock event
 
-## Happy Hunting!
+### Happy Hunting!
