@@ -25,7 +25,7 @@ Pop Now Navigator is your trusty sidekick for finding available boxes and keepin
 - Helps you skip already checked boxes, no more clicking through sold-out boxes!
 - The navigator automatically remembers any unavailable box sets you’ve discovered that are expected to restock in the future.
 It also fetches the next expected restock box set for the three most popular Labubu characters using online data.
-*Note: This online data updates every 12 hours and may not reflect the latest box numbers during live restock events — it shows the next predicted restock from the previous day.*
+<br>*Note: This online data updates every 12 hours and shows the next predicted restock from the previous day.*
 
 ## How to Use
 
@@ -36,7 +36,7 @@ It also fetches the next expected restock box set for the three most popular Lab
 5. The extension remembers everything for your last visit
 
 
-## Restock Info:**  
+## Restock Info:
 Pop Now restocks for Macaron and HAS typically begin daily at 5:30pm PST. BIE restocks are less frequent, usually occurring on Wednesdays and/or Thursdays between 5:30pm and 6:30pm PST.
 
 For the best chance at snagging a box during a restock, switch to the grid containing the next restock box set (use the restock button to jump there), then randomly select one of the highlighted red cells in the navigation tool. Restock ranges typically cover 300–500 box sets, so choose a box within that range. Start refreshing that red cell beginning at 5:29pm PST, and be ready to add your chosen box to the cart as soon as it becomes available.  If you miss out, quickly pick another cell that has a higher box set id to try again.
